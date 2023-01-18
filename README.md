@@ -2,7 +2,6 @@ My first readme
 
 First readme is amazing!
  
- 
-some changes
+ some changes
 
 
